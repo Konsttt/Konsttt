@@ -4,7 +4,7 @@
 
 Я ищу работу в должности программист Python backend.
 
-<a href="https://ibb.co/3Rq7Mg7"><img src="https://i.ibb.co/3Rq7Mg7/1.jpg" alt="1" border="0" /></a>
+<a href="https://ibb.co/3Rq7Mg7"><img src="https://i.ibb.co/41G7Yh7/1.jpg" alt="1" border="0"></a>
 
 ### Проекты:
 
